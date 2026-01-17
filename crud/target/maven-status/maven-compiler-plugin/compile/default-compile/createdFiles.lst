@@ -1,0 +1,6 @@
+santiago\crud\CrudApplication.class
+santiago\crud\repository\IEstudianteRepository.class
+santiago\crud\model\Estudiante.class
+santiago\crud\service\IEstudianteService.class
+santiago\crud\controller\EstudianteController.class
+santiago\crud\service\EstudianteService.class
